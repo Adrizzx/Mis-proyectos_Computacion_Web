@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 Programación Web · Proyectos de la asignatura
+# Programación Web · Proyectos de la asignatura
 
 ### Recorrido práctico por HTML5, CSS3, Bootstrap y JavaScript: desde formularios y diseño responsive hasta CRUDs con `fetch` y `localStorage`
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 📚 Contenido por parcial
+## Contenido por parcial
 
 ### Primer parcial · Fundamentos y Bootstrap
 - **Portafolio personal con Bootstrap**
@@ -38,11 +38,11 @@
 ### Actividades en clase
 Ejercicios cortos de variables CSS, posicionamiento, contenedores, componentes globales, APIs de HTML5, calculadora con Bootstrap e introducción a JavaScript (en archivos `.zip`).
 
-## 🚀 Cómo verlos
+## Cómo verlos
 
 Cada carpeta es un proyecto independiente: basta con abrir su `index.html` en el navegador.
 
-## 👤 Autor
+## Autor
 
 **Marco Adrián Padilla Triviño** · Ingeniería de Software, Universidad de las Fuerzas Armadas ESPE
 
