@@ -44,6 +44,6 @@ Cada carpeta es un proyecto independiente: basta con abrir su `index.html` en el
 
 ## Autor
 
-**Marco Adrián Padilla Triviño** · Ingeniería de Software, Universidad de las Fuerzas Armadas ESPE
+**Marco Adrian Padilla Triviño** · Ingeniería de Software, Universidad de las Fuerzas Armadas ESPE
 
 [![GitHub](https://img.shields.io/badge/GitHub-Adrizzx-181717?style=flat-square&logo=github)](https://github.com/Adrizzx)
